@@ -1,4 +1,4 @@
-# DIABETES_DIAGNOSIIS
+# DIABETES_DIAGNOSIS
 
 ## 🩺 Diabetes Prediction and Analysis using Machine Learning
 
